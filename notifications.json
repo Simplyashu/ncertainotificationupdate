@@ -1,19 +1,11 @@
 {
   "notifications": [
     {
-      "id": "3ha16394",
-      "title": "ashus",
-      "message": "testing",
+      "id": "new_notification_001",
+      "title": "hello everyone",
+      "message": "this is still in development feel free to report bug or request features on telegram",
       "type": "news",
-      "timestamp": "2026-03-17T22:35:16.740796Z",
-      "actionUrl": null
-    },
-    {
-      "id": "yyl2bjvz",
-      "title": "ashu",
-      "message": "ashuuuu",
-      "type": "news",
-      "timestamp": "2026-03-17T22:35:05.143136Z",
+      "timestamp": "2026-05-11T00:00:00.000000Z",
       "actionUrl": null
     }
   ]
